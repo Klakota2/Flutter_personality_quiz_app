@@ -1,2 +1,16 @@
-# Flutter_personality_quiz_app
-This is a test for a personality quiz app, the basis for this application is to create a personality quiz where the user answers a series of questions to see if the share similar interests to me. Each answer has a point total associated with it, and at the end of the quiz, users will receive a message indicating how "similar" their personalities are to mine. 
+# flutter_complete_guide
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
